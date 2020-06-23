@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": true,
  "homepage": "http://MulupuriAksha.github.io/myproject",
- "homepage": "http://MulupuriAksha.githu.io/myproject",
- "homepage": "http://MulupuriAksha.github.io/myproject",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -12,8 +10,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-  "predeploy": "npm run build",
-  "deploy": "myproject -d build",
     "react-scripts": "3.4.1"
   },
   "scripts": {
