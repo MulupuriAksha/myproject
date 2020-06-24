@@ -2,10 +2,10 @@
 	"profiles":[
 		{
 			"basics":{
-				"name":"ooha gnana madhuri",
+				"name":"Aksha Mulupuri",
 				"role":"Student",
-				"email":"oohagnanamadhri@gmail.com",
-				"mobile":"+91 6305815640",
+				"email":"mulupuriakshaa@gmail.com",
+				"mobile":"+91 6304799650",
 				"gender":"female",
 				"address":"vijayawada,Andhra pradesh"
 
@@ -22,17 +22,17 @@
 				{
                     "degree":"B-Tech (Computer Science and Engineering)",
                     "institute":"Lakireddy balireddy College of Engineering",
-                    "result":"97%"
+                    "result":"85%"
 				},
 				{
                     "degree":"Intermediate in MPC",
                     "institute":"Narayana Junior College",
-                    "result":"98%"
+                    "result":"87%"
 				},
 				{
                     "degree":"S.S.C",
                     "institute":"Global kids e.m high school",
-                    "result":"98%"
+                    "result":"90%"
 				}
 
 
